@@ -86,7 +86,6 @@ The Server Info Dashboard is a web application that provides real-time informati
 
 # Stoic Server Info Dashboard
 
-The Server Info Dashboard is a web application that provides real-time information about your server and its online players. It's designed to give server administrators and players quick access to essential server details and player statistics.
 
 ## Features
 
