@@ -38,7 +38,7 @@ The Server Info Dashboard is a web application that provides real-time informati
 
 - Built with HTML, CSS, JavaScript, and PHP.
 - Utilizes AJAX for real-time updates.
-- Inspired by the need for a simple server information dashboard for game servers.)https://status.discordsolutions.net/
+- Inspired by the need for a simple server information dashboard for game servers.
 
 
 | Step | Description |
