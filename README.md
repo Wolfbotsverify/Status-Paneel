@@ -1,7 +1,7 @@
+![Stoic-Status](https://github.com/TheStoicBear/Stoic-Status/assets/112611821/768b2a30-e74f-4e67-904c-ab542e98dff1)
 
-![Untitled (960 × 540 px) (7)](https://github.com/5M-CodeX/codex-status/assets/112611821/0970672c-a198-4309-84bd-7c15a1142a65)
 
-# CodeX Server Info Dashboard
+# Stoic Server Info Dashboard
 
 The Server Info Dashboard is a web application that provides real-time information about your server and its online players. It's designed to give server administrators and players quick access to essential server details and player statistics.
 
@@ -42,7 +42,7 @@ The Server Info Dashboard is a web application that provides real-time informati
 - Inspired by the need for a simple server information dashboard for game servers.)https://status.discordsolutions.net/
 
 
-# CodeX Server Info Dashboard
+# Stoic Server Info Dashboard
 
 The Server Info Dashboard is a web application that provides real-time information about your server and its online players. It's designed to give server administrators and players quick access to essential server details and player statistics.
 
@@ -84,7 +84,7 @@ The Server Info Dashboard is a web application that provides real-time informati
 ](https://status.discordsolutions.net/
 
 
-# CodeX Server Info Dashboard
+# Stoic Server Info Dashboard
 
 The Server Info Dashboard is a web application that provides real-time information about your server and its online players. It's designed to give server administrators and players quick access to essential server details and player statistics.
 
@@ -125,7 +125,7 @@ The Server Info Dashboard is a web application that provides real-time informati
 - Inspired by the need for a simple server information dashboard for game servers.)https://status.discordsolutions.net/
 
 
-# CodeX Server Info Dashboard
+# Stoic Server Info Dashboard
 
 The Server Info Dashboard is a web application that provides real-time information about your server and its online players. It's designed to give server administrators and players quick access to essential server details and player statistics.
 
@@ -169,7 +169,7 @@ The Server Info Dashboard is a web application that provides real-time informati
 | Step | Description |
 | --- | --- |
 | **1** | **Download and Extract the Files** |
-|      | - Download the 5M-CodeX Status Panel files to your computer. |
+|      | - Download the Stoic Status Panel files to your computer. |
 |      | - Extract the contents of the downloaded ZIP file to a directory accessible by your web server. If you are using XAMPP, place it in the `htdocs` folder. |
 | **2** | **Edit the Configuration** |
 |      | - Open the `config.php` file in a text editor. |
@@ -182,6 +182,6 @@ The Server Info Dashboard is a web application that provides real-time informati
 | **5** | **Customize Further (Optional)** |
 |      | - You can further customize the Status Panel by modifying the HTML and CSS in the project files as needed. |
 | **6** | **Enjoy Your Status Panel!** |
-|      | - Your 5M-CodeX Status Panel is now set up and ready to display server status information according to your configuration. |
+|      | - Your Stoic Status Panel is now set up and ready to display server status information according to your configuration. |
 
 
