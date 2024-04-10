@@ -11,20 +11,20 @@ $headerTextColor = "#ffffff";
 $logoPath = "your-logo.png";
 
 // Button settings
-$websiteLink = "https://yourdomainname";
+$websiteLink = "https://sites.google.com/view/wolf-bots-city/homepage";
 $websiteButtonText = "Website";
-$discordLink = "https://discord.gg/your-discord";
+$discordLink = "https://discord.gg/cSzM5baYGP";
 $discordButtonText = "Discord";
 
 // Main content settings
 $contentBackgroundColor = "#f0f0f0";
 
 // Server information settings
-$serverInfoLink = "https://your-server-info-link.com";
+$serverInfoLink = "https://servers.fivem.net/servers/detail/kdyb3d";
 $serverInfoLinkColor = "#333333";
 $serverInfoBoxBackgroundColor = "#e0e0e0";
-$serverIP = "76.144.197.59:30120";
-$serverJoinLink = "https://your-server-join-link.com";
+$serverIP = "46.4.97.49:30177";
+$serverJoinLink = "https://cfx.re/join/kdyb3d";
 $updateFrequency = 5000; // in milliseconds (e.g., 5000 ms = 5 Seconds)
 
 // Button animation settings
@@ -45,7 +45,7 @@ $discordButtonHeight = 48; // in pixels
 $discordButtonZIndex = 1001;
 
 // Discord iframe settings
-$discordWidgetURL = "https://discord.com/widget?id=1211521398078705745&theme=dark";
+$discordWidgetURL = "https://discord.com/widget?id=1222945135176843365&theme=dark"";
 $discordIframeRight = -350; // in pixels (off-screen)
 $discordIframeWidth = 350; // in pixels
 $discordIframeHeight = 500; // in pixels
