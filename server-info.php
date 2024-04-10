@@ -1,7 +1,7 @@
 <?php
 require_once('./config.php');
 $curl = curl_init();
-curl_setopt($curl, CURLOPT_URL, $46.4.97.49:30177 . "/players.json");
+curl_setopt($curl, CURLOPT_URL, $serverIP . "/players.json");
 curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
 
 $json;
