@@ -45,7 +45,7 @@ $discordButtonHeight = 48; // in pixels
 $discordButtonZIndex = 1001;
 
 // Discord iframe settings
-$discordWidgetURL = "https://discord.com/widget?id=1222945135176843365&theme=dark"";
+$discordWidgetURL = "https://discord.com/widget?id=1222945135176843365&theme=dark"
 $discordIframeRight = -350; // in pixels (off-screen)
 $discordIframeWidth = 350; // in pixels
 $discordIframeHeight = 500; // in pixels
